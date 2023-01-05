@@ -1,4 +1,4 @@
-# derinogrenme
+# Derin öğrenme- Yolov7 algoritması ile dokunsal parke tanımlama projesi.
 |**ÖZET**<br>Görme engelli bireylerin hayatlarında çok önemli bir yere sahip olan dokunsal parkeler onlara dışarıda yol göstermelerine yardımcı olmaktadır. Dokunsal parkeleri tespit etme ile ilgili Ek’te sunulan makaleden esinlenerek Yolov3 ile yapılmış olan dokunsal parke tespiti adlı çalışma Yolov7 ile yapmaya çalışılmıştır. Google üzerinden indirmiş olduğum dokunsal parke yüzeyi fotoğraflarını https://www.makesense.ai/ adresinden etiketleme yaparak etiketlemiş olduğum fotoğrafları https://app.roboflow.com/aatay-korkut/parke/6 roboflow sitesine yükledim. Roboflow sitesinde tüm resimleri tek boyut 640x640 olarak ayarladım. Yolov7'ye uygun olarak export etmiş olduğum kodu Colab'a yazarak etiketlenmiş verilerin indirilmesi sağlanmıştır. Daha sonra Yolov7 ile nesne tespiti yapılmıştır. |
 | - |
 
